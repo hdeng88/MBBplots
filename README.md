@@ -1,2 +1,2 @@
 # MBBplots
-Plots for presentation slides using McK styles
+Plots for presentation slides using McK or MBB styles
